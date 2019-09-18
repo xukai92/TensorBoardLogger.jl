@@ -48,4 +48,7 @@ include("Loggers/LogGraph.jl")
 
 include("logger_dispatch.jl")
 include("logger_dispatch_overrides.jl")
+
+include("deserialization.jl")
+
 end # module
